@@ -4,9 +4,9 @@ document.querySelector('.menu-btn').addEventListener('click', () =>{
 
 });
 ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.portfolio',{delay:400});
-ScrollReveal().reveal('.banner-one',{delay:400});
-ScrollReveal().reveal('.banner-two',{delay:400});
+ScrollReveal().reveal('.portfolio',{delay:500});
+ScrollReveal().reveal('.banner-a',{delay:500});
+ScrollReveal().reveal('.banner-two',{delay:500});
 
 
 
